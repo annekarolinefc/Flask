@@ -1,0 +1,5 @@
+1) Enviar para o GitHub
+2) Criar conta no Heroku
+3) Instalar o gunicorn [pip install gunicorn] # pacote que possibilita o uso do python como servico web
+4) Cria arquivo Procfile
+5) Congelar tudo que foi feito no projeto : pip freeze > requirements.txt
